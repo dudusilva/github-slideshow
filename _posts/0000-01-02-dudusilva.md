@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+As coisas so mudarao quando o sistema parar
 Use the left arrow to go back!
